@@ -1,2 +1,17 @@
-﻿  LinkedListStack.c
-  LinkedListStack.vcxproj -> C:\Users\HyunSeo Oh\source\repos\C_Algorithm_DataStructure\02\LinkedListStack\x64\Debug\LinkedListStack.exe
+﻿  Calculator.c
+C:\Users\HyunSeo Oh\source\repos\C_Algorithm_DataStructure\02\LinkedListStack\LinkedListStack\Calculator.c(29,28): error C2065: 'OPERAND': 선언되지 않은 식별자입니다.
+C:\Users\HyunSeo Oh\source\repos\C_Algorithm_DataStructure\02\LinkedListStack\LinkedListStack\Calculator.c(63,10): error C2196: case 값 '43'을(를) 이미 사용했습니다.
+C:\Users\HyunSeo Oh\source\repos\C_Algorithm_DataStructure\02\LinkedListStack\LinkedListStack\Calculator.c(92,28): error C2065: 'OPERAND': 선언되지 않은 식별자입니다.
+C:\Users\HyunSeo Oh\source\repos\C_Algorithm_DataStructure\02\LinkedListStack\LinkedListStack\Calculator.c(84,27): warning C4267: '초기화 중': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HyunSeo Oh\source\repos\C_Algorithm_DataStructure\02\LinkedListStack\LinkedListStack\Calculator.c(94,13): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HyunSeo Oh\source\repos\C_Algorithm_DataStructure\02\LinkedListStack\LinkedListStack\Calculator.c(95,13): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HyunSeo Oh\source\repos\C_Algorithm_DataStructure\02\LinkedListStack\LinkedListStack\Calculator.c(110,21): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HyunSeo Oh\source\repos\C_Algorithm_DataStructure\02\LinkedListStack\LinkedListStack\Calculator.c(123,21): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HyunSeo Oh\source\repos\C_Algorithm_DataStructure\02\LinkedListStack\LinkedListStack\Calculator.c(137,13): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\HyunSeo Oh\source\repos\C_Algorithm_DataStructure\02\LinkedListStack\LinkedListStack\Calculator.c(165,28): error C2065: 'OPERAND': 선언되지 않은 식별자입니다.
+C:\Users\HyunSeo Oh\source\repos\C_Algorithm_DataStructure\02\LinkedListStack\LinkedListStack\Calculator.c(154,27): warning C4267: '초기화 중': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HyunSeo Oh\source\repos\C_Algorithm_DataStructure\02\LinkedListStack\LinkedListStack\Calculator.c(188,18): error C2196: case 값 '43'을(를) 이미 사용했습니다.
+C:\Users\HyunSeo Oh\source\repos\C_Algorithm_DataStructure\02\LinkedListStack\LinkedListStack\Calculator.c(192,13): error C4996: 'gcvt': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _gcvt. See online help for details.
+  Test_Calculator.c
+C:\Users\HyunSeo Oh\source\repos\C_Algorithm_DataStructure\02\LinkedListStack\LinkedListStack\Test_Calculator.c(16,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...

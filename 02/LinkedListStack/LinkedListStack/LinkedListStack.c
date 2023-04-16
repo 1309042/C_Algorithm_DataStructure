@@ -1,5 +1,4 @@
 #include "LinkedListStack.h"
-#pragma warning(disable:4996)
 
 void  LLS_CreateStack(LinkedListStack** Stack)
 {

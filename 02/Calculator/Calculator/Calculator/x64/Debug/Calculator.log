@@ -1,0 +1,7 @@
+﻿  LinkedListStack.c
+C:\Users\HyunSeo Oh\source\repos\C_Algorithm_DataStructure\02\LinkedListStack\LinkedListStack\LinkedListStack.c(28,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Calculator.c
+C:\Users\HyunSeo Oh\source\repos\C_Algorithm_DataStructure\02\Calculator\Calculator\Calculator\Calculator.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'LinkedListStack.h': No such file or directory
+  Test_Calculator.c
+C:\Users\HyunSeo Oh\source\repos\C_Algorithm_DataStructure\02\Calculator\Calculator\Calculator\Calculator.h(6,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'LinkedListStack.h': No such file or directory
+  코드를 생성하고 있습니다...
